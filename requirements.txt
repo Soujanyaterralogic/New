@@ -1,4 +1,0 @@
-Flask==2.0.1
-Flask-RESTx==0.7.1
-pymongo==3.12.1
-flasgger==0.9.5
